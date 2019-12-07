@@ -16,7 +16,7 @@
 
 **Network**
 
-[4 Gbps LAN]
+[6 Gbps LAN]
 
 **Machine Type (Optional)**
 
